@@ -14,10 +14,10 @@
 npm install
 ```
 
-## Run tests
+## Run
 
 ```sh
-npm run test
+node app.js
 ```
 
 ## Author
